@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🌱 I’m Pratiksha Naik.
+- 🔭 I’m currently working on Spotify Data Analysis.
 
