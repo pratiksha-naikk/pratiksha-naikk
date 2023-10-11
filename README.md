@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratiksha Naik</h1>
-- LinkedIn [Pratiksha Naik](https://www.linkedin.com/in/pratiksha-naikk/)
+- LinkedIn [https://www.linkedin.com/in/pratiksha-naikk/](https://www.linkedin.com/in/pratiksha-naikk/)
 
 - 📫 How to reach me **pnaik7@buffalo.edu**
 
