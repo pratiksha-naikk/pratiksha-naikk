@@ -1,5 +1,7 @@
 <h1>Hi 👋 I'm Pratiksha Naik</h1>
 
+- 🌱 I’m currently learning **Generative AI**
+  
 - 👨‍💻 LinkedIn [www.linkedin.com/in/pratiksha-naikk/](www.linkedin.com/in/pratiksha-naikk/)
 
 <h3 align="left">Languages and Tools:</h3>
