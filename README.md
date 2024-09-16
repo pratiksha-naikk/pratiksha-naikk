@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Generative AI<br><br>LinkedIn: https://www.linkedin.com/in/pratiksha-naikk/<br><br>Portfolio: https://adiimated.github.io/portfolio/</p>
+<p align="left">📚 I'm currently learning Generative AI<br><br>LinkedIn: https://www.linkedin.com/in/pratiksha-naikk/<br><br>Portfolio: https://pratiksha-naikk.github.io/portfolio/</p>
 
 ###
 
