@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a recent Data Science MS graduate from the University at Buffalo, skilled in Python, machine learning, and database management. My expertise is in transforming complex data into actionable insights and robust data solutions.</p>
+<p align="left">I am a Business Analyst with a strong foundation in Data Science, currently working at Solenis, where I drive strategic decision-making through data insights, automation, and cross-functional collaboration.</p>
 
 ###
 
